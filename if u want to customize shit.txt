@@ -1,0 +1,4 @@
+remove menu music 				\sound\ui (delete the gamestartup files)
+the background stuff is in 			\materials\console
+inventory background thing is			\materials\vgui\replay\thumbnails\inventory.vtf
+the weird overlay in game is in			\resource\ui\hudplayerhealth.res  (ctrl + f and just disable the image stuff (only for the health th))
